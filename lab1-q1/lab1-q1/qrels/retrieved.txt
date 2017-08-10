@@ -1,0 +1,8 @@
+01 Q0 email06 1 1.75 my_IR_system1
+06 Q0 email06 1 0.95 my_IR_system1
+06 Q0 email05 2 0.77 my_IR_system1
+06 Q0 email08 3 0.77 my_IR_system1
+06 Q0 email02 4 0.65 my_IR_system1
+06 Q0 email07 5 0.65 my_IR_system1
+04 Q0 email03 1 3.25 my_IR_system1
+05 Q0 email02 1 3.45 my_IR_system1

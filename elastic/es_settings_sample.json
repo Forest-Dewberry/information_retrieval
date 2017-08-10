@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "number_of_shards": 1,
+    "analysis": {
+      "analyzer": {
+        "my_analyzer": {
+          "filter": [
+            "stop"
+          ],
+          "char_filter": [
+            "html_strip"
+          ],
+          "type": "custom",
+          "tokenizer": "whitespace"
+        }
+      }
+    }
+  },
+  "mappings": {
+    "doc": {
+      "properties": {
+        "filename": {
+          "type": "keyword",
+          "index": false,
+          "doc_values": false
+        },
+        "path": {
+          "type": "keyword",
+          "index": false,
+          "doc_values": false
+        },
+        "text": {
+          "type": "text",
+          "analyzer": "my_analyzer",
+          "search_analyzer": "my_analyzer"
+        }
+      }
+    }
+  }
+}

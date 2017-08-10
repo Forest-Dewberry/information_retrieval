@@ -1,0 +1,4904 @@
+{
+  "field_statistics": {
+    "doc_count": 11,
+    "sum_ttf": 22791,
+    "sum_doc_freq": 10332
+  },
+  "terms": {
+    "0": {
+      "term_freq": 11,
+      "ttf": 215,
+      "doc_freq": 11
+    },
+    "1": {
+      "term_freq": 5,
+      "ttf": 81,
+      "doc_freq": 11
+    },
+    "2": {
+      "term_freq": 5,
+      "ttf": 65,
+      "doc_freq": 11
+    },
+    "3": {
+      "term_freq": 1,
+      "ttf": 23,
+      "doc_freq": 9
+    },
+    "4": {
+      "term_freq": 2,
+      "ttf": 33,
+      "doc_freq": 10
+    },
+    "6": {
+      "term_freq": 3,
+      "ttf": 39,
+      "doc_freq": 11
+    },
+    "7": {
+      "term_freq": 2,
+      "ttf": 14,
+      "doc_freq": 5
+    },
+    "8": {
+      "term_freq": 1,
+      "ttf": 25,
+      "doc_freq": 8
+    },
+    "10": {
+      "term_freq": 3,
+      "ttf": 67,
+      "doc_freq": 11
+    },
+    "11": {
+      "term_freq": 3,
+      "ttf": 71,
+      "doc_freq": 11
+    },
+    "12": {
+      "term_freq": 2,
+      "ttf": 114,
+      "doc_freq": 11
+    },
+    "13": {
+      "term_freq": 6,
+      "ttf": 59,
+      "doc_freq": 11
+    },
+    "14": {
+      "term_freq": 2,
+      "ttf": 46,
+      "doc_freq": 11
+    },
+    "15": {
+      "term_freq": 7,
+      "ttf": 43,
+      "doc_freq": 11
+    },
+    "16": {
+      "term_freq": 2,
+      "ttf": 31,
+      "doc_freq": 11
+    },
+    "17": {
+      "term_freq": 2,
+      "ttf": 40,
+      "doc_freq": 9
+    },
+    "18": {
+      "term_freq": 2,
+      "ttf": 34,
+      "doc_freq": 9
+    },
+    "19": {
+      "term_freq": 1,
+      "ttf": 22,
+      "doc_freq": 9
+    },
+    "20": {
+      "term_freq": 2,
+      "ttf": 18,
+      "doc_freq": 6
+    },
+    "23": {
+      "term_freq": 1,
+      "ttf": 24,
+      "doc_freq": 7
+    },
+    "26": {
+      "term_freq": 2,
+      "ttf": 22,
+      "doc_freq": 6
+    },
+    "28": {
+      "term_freq": 1,
+      "ttf": 16,
+      "doc_freq": 7
+    },
+    "29": {
+      "term_freq": 2,
+      "ttf": 13,
+      "doc_freq": 7
+    },
+    "30": {
+      "term_freq": 1,
+      "ttf": 23,
+      "doc_freq": 10
+    },
+    "31": {
+      "term_freq": 4,
+      "ttf": 9,
+      "doc_freq": 6
+    },
+    "34": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 4
+    },
+    "35": {
+      "term_freq": 2,
+      "ttf": 16,
+      "doc_freq": 8
+    },
+    "39": {
+      "term_freq": 1,
+      "ttf": 7,
+      "doc_freq": 4
+    },
+    "42": {
+      "term_freq": 1,
+      "ttf": 10,
+      "doc_freq": 8
+    },
+    "43": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "44": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "46": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 5
+    },
+    "53": {
+      "term_freq": 1,
+      "ttf": 8,
+      "doc_freq": 8
+    },
+    "57": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "58": {
+      "term_freq": 2,
+      "ttf": 8,
+      "doc_freq": 4
+    },
+    "59": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 5
+    },
+    "63": {
+      "term_freq": 1,
+      "ttf": 8,
+      "doc_freq": 8
+    },
+    "70": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "72": {
+      "term_freq": 1,
+      "ttf": 8,
+      "doc_freq": 8
+    },
+    "81": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "88": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "95": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "97": {
+      "term_freq": 1,
+      "ttf": 8,
+      "doc_freq": 8
+    },
+    "137": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "146": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "173": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "344": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "428": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "491": {
+      "term_freq": 2,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "617": {
+      "term_freq": 4,
+      "ttf": 44,
+      "doc_freq": 11
+    },
+    "661": {
+      "term_freq": 2,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "768": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "963": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "1000": {
+      "term_freq": 2,
+      "ttf": 33,
+      "doc_freq": 7
+    },
+    "1076": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "1105": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "1252": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "1500": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "1998": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "2000": {
+      "term_freq": 3,
+      "ttf": 14,
+      "doc_freq": 5
+    },
+    "2001": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "2004": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "2005": {
+      "term_freq": 2,
+      "ttf": 5,
+      "doc_freq": 4
+    },
+    "2006": {
+      "term_freq": 1,
+      "ttf": 8,
+      "doc_freq": 5
+    },
+    "2007": {
+      "term_freq": 52,
+      "ttf": 169,
+      "doc_freq": 8
+    },
+    "2008": {
+      "term_freq": 1,
+      "ttf": 231,
+      "doc_freq": 9
+    },
+    "2200": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "4437": {
+      "term_freq": 2,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "9643": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "20373": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "380853": {
+      "term_freq": 2,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "all": {
+      "term_freq": 3,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "code": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "hint": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "consum": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "month": {
+      "term_freq": 7,
+      "ttf": 82,
+      "doc_freq": 11
+    },
+    "signific": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "supplement": {
+      "term_freq": 2,
+      "ttf": 25,
+      "doc_freq": 11
+    },
+    "sleep": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "edt": {
+      "term_freq": 2,
+      "ttf": 14,
+      "doc_freq": 7
+    },
+    "go": {
+      "term_freq": 2,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "follow": {
+      "term_freq": 5,
+      "ttf": 12,
+      "doc_freq": 6
+    },
+    "research": {
+      "term_freq": 21,
+      "ttf": 205,
+      "doc_freq": 11
+    },
+    "fredrik": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "deluca": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "kinshuk": {
+      "term_freq": 6,
+      "ttf": 6,
+      "doc_freq": 1
+    },
+    "content": {
+      "term_freq": 4,
+      "ttf": 43,
+      "doc_freq": 11
+    },
+    "accur": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "depend": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "216.148.227.154": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "http://tinyurl.com/yon2rp": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "n.sp": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "white": {
+      "term_freq": 3,
+      "ttf": 4,
+      "doc_freq": 2
+    },
+    "young": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 3
+    },
+    "http://www.boxoffice.harvard.edu/": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "articl": {
+      "term_freq": 2,
+      "ttf": 5,
+      "doc_freq": 4
+    },
+    "quasi": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "linusson": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "editori": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "aris": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "antispam": {
+      "term_freq": 2,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "improbable.com": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "worth": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "introduc": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "southwest": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "fax": {
+      "term_freq": 3,
+      "ttf": 33,
+      "doc_freq": 11
+    },
+    "woman": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "everi": {
+      "term_freq": 2,
+      "ttf": 19,
+      "doc_freq": 11
+    },
+    "congest": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "nomine": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "rhyme": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "electron": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "prof": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "cook": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "__meds_plain_med": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "ticket": {
+      "term_freq": 2,
+      "ttf": 11,
+      "doc_freq": 5
+    },
+    "http://aob.oxfordjournals.org/cgi/content/full/95/7/1105": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "tri": {
+      "term_freq": 2,
+      "ttf": 6,
+      "doc_freq": 4
+    },
+    "veterinari": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "cunningham": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "messaging2.anu.edu.au": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "did": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "list": {
+      "term_freq": 12,
+      "ttf": 88,
+      "doc_freq": 11
+    },
+    "item": {
+      "term_freq": 1,
+      "ttf": 17,
+      "doc_freq": 11
+    },
+    "http://tinyurl.com/2gp77d": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "guy": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "__sane_msgid": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "http://www.improbable.com": {
+      "term_freq": 2,
+      "ttf": 15,
+      "doc_freq": 11
+    },
+    "enjoy": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "130.56.64.133": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "smaller": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "fortun": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "2a0a14c9-3ab9-4f90-b490-af60cbfa43ae@chem2.harvard.edu": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "speci": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 4
+    },
+    "natur": {
+      "term_freq": 2,
+      "ttf": 20,
+      "doc_freq": 11
+    },
+    "500x": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "pmx": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "d": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 10
+    },
+    "past": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "second": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 4
+    },
+    "podiatr": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "pass": {
+      "term_freq": 2,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "further": {
+      "term_freq": 1,
+      "ttf": 7,
+      "doc_freq": 5
+    },
+    "n": {
+      "term_freq": 2,
+      "ttf": 21,
+      "doc_freq": 11
+    },
+    "carlo": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "illumin": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "laureat": {
+      "term_freq": 2,
+      "ttf": 23,
+      "doc_freq": 11
+    },
+    "compat": {
+      "term_freq": 5,
+      "ttf": 9,
+      "doc_freq": 3
+    },
+    "serv": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "what": {
+      "term_freq": 10,
+      "ttf": 49,
+      "doc_freq": 11
+    },
+    "masood": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "appear": {
+      "term_freq": 2,
+      "ttf": 9,
+      "doc_freq": 6
+    },
+    "compar": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "conspir": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "fact": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "brief": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "abbrevi": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "version": {
+      "term_freq": 3,
+      "ttf": 53,
+      "doc_freq": 11
+    },
+    "x": {
+      "term_freq": 14,
+      "ttf": 224,
+      "doc_freq": 11
+    },
+    "new": {
+      "term_freq": 11,
+      "ttf": 52,
+      "doc_freq": 11
+    },
+    "order": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "public": {
+      "term_freq": 1,
+      "ttf": 9,
+      "doc_freq": 7
+    },
+    "3d": {
+      "term_freq": 168,
+      "ttf": 1849,
+      "doc_freq": 11
+    },
+    "ongo": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "lfhcfs": {
+      "term_freq": 1,
+      "ttf": 8,
+      "doc_freq": 5
+    },
+    "full": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 5
+    },
+    "shelton": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "guardian": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "picker": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "v": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "drew": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "water": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "molnar": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "anumail7.anu.edu.au": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "web": {
+      "term_freq": 2,
+      "ttf": 14,
+      "doc_freq": 11
+    },
+    "address": {
+      "term_freq": 5,
+      "ttf": 56,
+      "doc_freq": 11
+    },
+    "hobart": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "signaturest": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "becom": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "box": {
+      "term_freq": 3,
+      "ttf": 24,
+      "doc_freq": 11
+    },
+    "aug": {
+      "term_freq": 5,
+      "ttf": 19,
+      "doc_freq": 6
+    },
+    "scienza": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "volumin": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "technolog": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "__lines_of_yel": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "trial": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "amount": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "i'd": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "pick": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "marca@chem2.harvard.edu": {
+      "term_freq": 1,
+      "ttf": 10,
+      "doc_freq": 10
+    },
+    "chang": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "harrumph": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "honor": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "out": {
+      "term_freq": 3,
+      "ttf": 9,
+      "doc_freq": 6
+    },
+    "elect": {
+      "term_freq": 3,
+      "ttf": 4,
+      "doc_freq": 2
+    },
+    "stockton": {
+      "term_freq": 2,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "immin": {
+      "term_freq": 2,
+      "ttf": 21,
+      "doc_freq": 10
+    },
+    "win": {
+      "term_freq": 1,
+      "ttf": 14,
+      "doc_freq": 11
+    },
+    "approxim": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "newspap": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "clara": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "http://improbable.com/category/lfhcfs-hair-club/": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "send": {
+      "term_freq": 4,
+      "ttf": 47,
+      "doc_freq": 11
+    },
+    "select": {
+      "term_freq": 1,
+      "ttf": 16,
+      "doc_freq": 10
+    },
+    "ipecac": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "use": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 8
+    },
+    "feb": {
+      "term_freq": 1,
+      "ttf": 15,
+      "doc_freq": 8
+    },
+    "describ": {
+      "term_freq": 4,
+      "ttf": 5,
+      "doc_freq": 2
+    },
+    "usa": {
+      "term_freq": 3,
+      "ttf": 34,
+      "doc_freq": 11
+    },
+    "memori": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "injuri": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 2
+    },
+    "visit": {
+      "term_freq": 1,
+      "ttf": 15,
+      "doc_freq": 11
+    },
+    "two": {
+      "term_freq": 2,
+      "ttf": 18,
+      "doc_freq": 9
+    },
+    "coverag": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "nobel": {
+      "term_freq": 5,
+      "ttf": 66,
+      "doc_freq": 11
+    },
+    "few": {
+      "term_freq": 2,
+      "ttf": 17,
+      "doc_freq": 11
+    },
+    "program": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "call": {
+      "term_freq": 3,
+      "ttf": 9,
+      "doc_freq": 6
+    },
+    "type": {
+      "term_freq": 3,
+      "ttf": 16,
+      "doc_freq": 11
+    },
+    "commut": {
+      "term_freq": 1,
+      "ttf": 10,
+      "doc_freq": 10
+    },
+    "mini-air-request@air.harvard.edu": {
+      "term_freq": 3,
+      "ttf": 33,
+      "doc_freq": 11
+    },
+    "more": {
+      "term_freq": 4,
+      "ttf": 41,
+      "doc_freq": 10
+    },
+    "bombast": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "relax": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 2
+    },
+    "babi": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "smtp": {
+      "term_freq": 1,
+      "ttf": 27,
+      "doc_freq": 10
+    },
+    "relat": {
+      "term_freq": 1,
+      "ttf": 7,
+      "doc_freq": 3
+    },
+    "http://improbable.com/subscrib": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 4
+    },
+    "0.671": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 6
+    },
+    "clue": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "wonder": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "phone": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "berlin": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "indic": {
+      "term_freq": 1,
+      "ttf": 15,
+      "doc_freq": 11
+    },
+    "particular": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "known": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "rare": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "landel": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "hold": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "me": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "join": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 3
+    },
+    "f": {
+      "term_freq": 2,
+      "ttf": 6,
+      "doc_freq": 5
+    },
+    "http://chem.harvard.edu/mailman/listinfo/mini-air": {
+      "term_freq": 4,
+      "ttf": 44,
+      "doc_freq": 11
+    },
+    "alic": {
+      "term_freq": 3,
+      "ttf": 17,
+      "doc_freq": 11
+    },
+    "judg": {
+      "term_freq": 1,
+      "ttf": 15,
+      "doc_freq": 11
+    },
+    "cambridg": {
+      "term_freq": 2,
+      "ttf": 26,
+      "doc_freq": 11
+    },
+    "oct": {
+      "term_freq": 3,
+      "ttf": 27,
+      "doc_freq": 9
+    },
+    "fli": {
+      "term_freq": 6,
+      "ttf": 6,
+      "doc_freq": 1
+    },
+    "vs": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 3
+    },
+    "can": {
+      "term_freq": 5,
+      "ttf": 15,
+      "doc_freq": 9
+    },
+    "caveat": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "learn": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "ernest": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "purpos": {
+      "term_freq": 1,
+      "ttf": 14,
+      "doc_freq": 11
+    },
+    "my": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "0jm200ip186y9o90@messaging2.anu.edu.au": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "give": {
+      "term_freq": 2,
+      "ttf": 10,
+      "doc_freq": 6
+    },
+    "wed": {
+      "term_freq": 2,
+      "ttf": 14,
+      "doc_freq": 4
+    },
+    "grant": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "lizard": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "accept": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 8
+    },
+    "topic": {
+      "term_freq": 1,
+      "ttf": 16,
+      "doc_freq": 11
+    },
+    "sinelli": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "tabl": {
+      "term_freq": 2,
+      "ttf": 14,
+      "doc_freq": 11
+    },
+    "keep": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "rhomboid": {
+      "term_freq": 1,
+      "ttf": 7,
+      "doc_freq": 2
+    },
+    "127.0.0.1": {
+      "term_freq": 1,
+      "ttf": 18,
+      "doc_freq": 11
+    },
+    "surfac": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "medrano": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "end": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "quot": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "anoth": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 5
+    },
+    "write": {
+      "term_freq": 1,
+      "ttf": 17,
+      "doc_freq": 7
+    },
+    "charset": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "length": {
+      "term_freq": 2,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "ceremoni": {
+      "term_freq": 2,
+      "ttf": 29,
+      "doc_freq": 10
+    },
+    "how": {
+      "term_freq": 4,
+      "ttf": 63,
+      "doc_freq": 11
+    },
+    "hot": {
+      "term_freq": 3,
+      "ttf": 4,
+      "doc_freq": 2
+    },
+    "void": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "57daa113cba": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "sosnowski": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "ft": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "elizabeth": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "referenc": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "may": {
+      "term_freq": 7,
+      "ttf": 63,
+      "doc_freq": 11
+    },
+    "after": {
+      "term_freq": 3,
+      "ttf": 12,
+      "doc_freq": 7
+    },
+    "rwcrmhc14.comcast.net": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "__has_msgid": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "befor": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "attent": {
+      "term_freq": 4,
+      "ttf": 29,
+      "doc_freq": 10
+    },
+    "date": {
+      "term_freq": 1,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "e8361113d68": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "data": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "short": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 4
+    },
+    "attempt": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 2
+    },
+    "postfix": {
+      "term_freq": 2,
+      "ttf": 36,
+      "doc_freq": 11
+    },
+    "author": {
+      "term_freq": 4,
+      "ttf": 44,
+      "doc_freq": 11
+    },
+    "fourcassi": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "caus": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "inform": {
+      "term_freq": 1,
+      "ttf": 18,
+      "doc_freq": 11
+    },
+    "preced": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "so": {
+      "term_freq": 1,
+      "ttf": 18,
+      "doc_freq": 8
+    },
+    "enter": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "aloud": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "first": {
+      "term_freq": 4,
+      "ttf": 20,
+      "doc_freq": 9
+    },
+    "make": {
+      "term_freq": 1,
+      "ttf": 20,
+      "doc_freq": 11
+    },
+    "lsd": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "eigen": {
+      "term_freq": 1,
+      "ttf": 10,
+      "doc_freq": 10
+    },
+    "don't": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "offici": {
+      "term_freq": 3,
+      "ttf": 4,
+      "doc_freq": 2
+    },
+    "move": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "recogn": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "soon": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 5
+    },
+    "cross": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "brain": {
+      "term_freq": 2,
+      "ttf": 9,
+      "doc_freq": 4
+    },
+    "paper": {
+      "term_freq": 2,
+      "ttf": 34,
+      "doc_freq": 11
+    },
+    "6.2": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "helb": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "eiger": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "zoolog": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "__mime_vers": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "reprint": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "thank": {
+      "term_freq": 3,
+      "ttf": 27,
+      "doc_freq": 11
+    },
+    "fit": {
+      "term_freq": 2,
+      "ttf": 8,
+      "doc_freq": 7
+    },
+    "chosen": {
+      "term_freq": 1,
+      "ttf": 10,
+      "doc_freq": 10
+    },
+    "fawzi": {
+      "term_freq": 10,
+      "ttf": 10,
+      "doc_freq": 1
+    },
+    "sale": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 4
+    },
+    "offic": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "relativita": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "stanley": {
+      "term_freq": 1,
+      "ttf": 10,
+      "doc_freq": 10
+    },
+    "hirschorn": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "onc": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "mail": {
+      "term_freq": 3,
+      "ttf": 28,
+      "doc_freq": 11
+    },
+    "masoodian": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "them": {
+      "term_freq": 4,
+      "ttf": 11,
+      "doc_freq": 6
+    },
+    "greater": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "than": {
+      "term_freq": 2,
+      "ttf": 20,
+      "doc_freq": 11
+    },
+    "nokia": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "framework": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "snake": {
+      "term_freq": 3,
+      "ttf": 3,
+      "doc_freq": 1
+    },
+    "foot": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "studi": {
+      "term_freq": 3,
+      "ttf": 50,
+      "doc_freq": 11
+    },
+    "nov": {
+      "term_freq": 1,
+      "ttf": 27,
+      "doc_freq": 7
+    },
+    "now": {
+      "term_freq": 5,
+      "ttf": 33,
+      "doc_freq": 11
+    },
+    "discuss": {
+      "term_freq": 2,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "bank": {
+      "term_freq": 1,
+      "ttf": 17,
+      "doc_freq": 11
+    },
+    "prize": {
+      "term_freq": 3,
+      "ttf": 37,
+      "doc_freq": 11
+    },
+    "choic": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "term": {
+      "term_freq": 3,
+      "ttf": 7,
+      "doc_freq": 2
+    },
+    "name": {
+      "term_freq": 19,
+      "ttf": 59,
+      "doc_freq": 11
+    },
+    "0927": {
+      "term_freq": 2,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "radiant": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "l": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 8
+    },
+    "dryfoo": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "magazin": {
+      "term_freq": 8,
+      "ttf": 67,
+      "doc_freq": 11
+    },
+    "massachusett": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "mastercard": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "each": {
+      "term_freq": 1,
+      "ttf": 9,
+      "doc_freq": 6
+    },
+    "__mime_text_on": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "genoa": {
+      "term_freq": 1,
+      "ttf": 7,
+      "doc_freq": 5
+    },
+    "http://improbable.com/improbable-research-shows/complete-schedul": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "mean": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 5
+    },
+    "week": {
+      "term_freq": 2,
+      "ttf": 5,
+      "doc_freq": 4
+    },
+    "vikland": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "mdn": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "newslett": {
+      "term_freq": 3,
+      "ttf": 21,
+      "doc_freq": 11
+    },
+    "hard": {
+      "term_freq": 1,
+      "ttf": 7,
+      "doc_freq": 4
+    },
+    "idea": {
+      "term_freq": 2,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "vote": {
+      "term_freq": 4,
+      "ttf": 5,
+      "doc_freq": 2
+    },
+    "expect": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "year": {
+      "term_freq": 2,
+      "ttf": 42,
+      "doc_freq": 11
+    },
+    "our": {
+      "term_freq": 9,
+      "ttf": 65,
+      "doc_freq": 11
+    },
+    "happen": {
+      "term_freq": 1,
+      "ttf": 7,
+      "doc_freq": 5
+    },
+    "commiss": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "event": {
+      "term_freq": 7,
+      "ttf": 64,
+      "doc_freq": 11
+    },
+    "special": {
+      "term_freq": 3,
+      "ttf": 32,
+      "doc_freq": 11
+    },
+    "baselin": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "canada": {
+      "term_freq": 2,
+      "ttf": 15,
+      "doc_freq": 11
+    },
+    "network": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "rwcrmhc14": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "billingham": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "goe": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "infrar": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "fathom": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "publish": {
+      "term_freq": 2,
+      "ttf": 9,
+      "doc_freq": 6
+    },
+    "128.103.96.254": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "categori": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "mate": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "__ct_text_plain": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "print": {
+      "term_freq": 2,
+      "ttf": 18,
+      "doc_freq": 11
+    },
+    "get": {
+      "term_freq": 2,
+      "ttf": 12,
+      "doc_freq": 8
+    },
+    "correct": {
+      "term_freq": 2,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "math": {
+      "term_freq": 1,
+      "ttf": 7,
+      "doc_freq": 4
+    },
+    "franc": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "lamp": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "ersatz": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "insid": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 4
+    },
+    "advanc": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "deneubourg": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "pleas": {
+      "term_freq": 7,
+      "ttf": 89,
+      "doc_freq": 11
+    },
+    "free": {
+      "term_freq": 4,
+      "ttf": 45,
+      "doc_freq": 11
+    },
+    "like": {
+      "term_freq": 2,
+      "ttf": 11,
+      "doc_freq": 8
+    },
+    "jennif": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "base": {
+      "term_freq": 3,
+      "ttf": 9,
+      "doc_freq": 3
+    },
+    "e9": {
+      "term_freq": 1,
+      "ttf": 9,
+      "doc_freq": 7
+    },
+    "theori": {
+      "term_freq": 3,
+      "ttf": 8,
+      "doc_freq": 3
+    },
+    "usual": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "ask": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "goforth": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "untreat": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "http://www.improbable.com/airchives/paperair/stale.htm": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 6
+    },
+    "2.752.3": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "g": {
+      "term_freq": 1,
+      "ttf": 7,
+      "doc_freq": 6
+    },
+    "elsay": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "nomenclatur": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "david": {
+      "term_freq": 4,
+      "ttf": 13,
+      "doc_freq": 7
+    },
+    "window": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "american": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 9
+    },
+    "place": {
+      "term_freq": 2,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "presid": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "geometri": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "fallen": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "origin": {
+      "term_freq": 3,
+      "ttf": 29,
+      "doc_freq": 11
+    },
+    "dionn": {
+      "term_freq": 1,
+      "ttf": 10,
+      "doc_freq": 10
+    },
+    "shorthand": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "__cp_uri_in_bodi": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "limerick": {
+      "term_freq": 8,
+      "ttf": 84,
+      "doc_freq": 11
+    },
+    "number": {
+      "term_freq": 1,
+      "ttf": 20,
+      "doc_freq": 11
+    },
+    "one": {
+      "term_freq": 4,
+      "ttf": 34,
+      "doc_freq": 11
+    },
+    "botani": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "alreadi": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "done": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "narcissus": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "sturm": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "size": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "differ": {
+      "term_freq": 1,
+      "ttf": 8,
+      "doc_freq": 7
+    },
+    "mailman": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "associ": {
+      "term_freq": 2,
+      "ttf": 23,
+      "doc_freq": 10
+    },
+    "interact": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "breed": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "system": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "messag": {
+      "term_freq": 3,
+      "ttf": 25,
+      "doc_freq": 11
+    },
+    "citi": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "too": {
+      "term_freq": 2,
+      "ttf": 19,
+      "doc_freq": 10
+    },
+    "statement": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "dfg": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "kmail": {
+      "term_freq": 3,
+      "ttf": 33,
+      "doc_freq": 11
+    },
+    "friend": {
+      "term_freq": 2,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "includ": {
+      "term_freq": 3,
+      "ttf": 21,
+      "doc_freq": 11
+    },
+    "tidbit": {
+      "term_freq": 1,
+      "ttf": 7,
+      "doc_freq": 7
+    },
+    "evenhui": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "voracek": {
+      "term_freq": 2,
+      "ttf": 5,
+      "doc_freq": 2
+    },
+    "juli": {
+      "term_freq": 3,
+      "ttf": 6,
+      "doc_freq": 4
+    },
+    "copi": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "specifi": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "provid": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "cereal": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "domin": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "nigeria": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "b": {
+      "term_freq": 3,
+      "ttf": 17,
+      "doc_freq": 11
+    },
+    "told": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "bee": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "project": {
+      "term_freq": 1,
+      "ttf": 9,
+      "doc_freq": 4
+    },
+    "siemen": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "riva": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "r": {
+      "term_freq": 2,
+      "ttf": 17,
+      "doc_freq": 11
+    },
+    "were": {
+      "term_freq": 3,
+      "ttf": 17,
+      "doc_freq": 8
+    },
+    "minut": {
+      "term_freq": 2,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "proofread": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "nir": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "mini": {
+      "term_freq": 16,
+      "ttf": 202,
+      "doc_freq": 11
+    },
+    "issn": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "comput": {
+      "term_freq": 6,
+      "ttf": 18,
+      "doc_freq": 11
+    },
+    "runner": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "you'v": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "mind": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "anywher": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "ant": {
+      "term_freq": 9,
+      "ttf": 14,
+      "doc_freq": 2
+    },
+    "say": {
+      "term_freq": 4,
+      "ttf": 14,
+      "doc_freq": 7
+    },
+    "lines_of_yelling_3": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 6
+    },
+    "have": {
+      "term_freq": 8,
+      "ttf": 40,
+      "doc_freq": 11
+    },
+    "deliv": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "need": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "allen": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 2
+    },
+    "seem": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 4
+    },
+    "scram": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "__ct": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "0400": {
+      "term_freq": 3,
+      "ttf": 18,
+      "doc_freq": 7
+    },
+    "issu": {
+      "term_freq": 12,
+      "ttf": 136,
+      "doc_freq": 11
+    },
+    "wilson": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "engin": {
+      "term_freq": 2,
+      "ttf": 14,
+      "doc_freq": 11
+    },
+    "built": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "trip": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 6
+    },
+    "self": {
+      "term_freq": 6,
+      "ttf": 15,
+      "doc_freq": 5
+    },
+    "scott": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "snow": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "launceston": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "also": {
+      "term_freq": 2,
+      "ttf": 10,
+      "doc_freq": 7
+    },
+    "ideal": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "discret": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "which": {
+      "term_freq": 3,
+      "ttf": 32,
+      "doc_freq": 11
+    },
+    "perlmx": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "mit": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "singl": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 2
+    },
+    "02": {
+      "term_freq": 2,
+      "ttf": 33,
+      "doc_freq": 11
+    },
+    "sure": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "germani": {
+      "term_freq": 2,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "distribut": {
+      "term_freq": 2,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "who": {
+      "term_freq": 5,
+      "ttf": 34,
+      "doc_freq": 11
+    },
+    "salli": {
+      "term_freq": 2,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "whi": {
+      "term_freq": 3,
+      "ttf": 10,
+      "doc_freq": 4
+    },
+    "discov": {
+      "term_freq": 2,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "most": {
+      "term_freq": 3,
+      "ttf": 20,
+      "doc_freq": 7
+    },
+    "visa": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "8.04": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "beth": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "payment": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "zealand": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "hereaft": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "richard": {
+      "term_freq": 3,
+      "ttf": 17,
+      "doc_freq": 11
+    },
+    "professor": {
+      "term_freq": 56,
+      "ttf": 89,
+      "doc_freq": 6
+    },
+    "flow": {
+      "term_freq": 1,
+      "ttf": 10,
+      "doc_freq": 8
+    },
+    "hiccup": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "doe": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "1,000": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "bombyliida": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "declar": {
+      "term_freq": 3,
+      "ttf": 5,
+      "doc_freq": 2
+    },
+    "tongu": {
+      "term_freq": 1,
+      "ttf": 18,
+      "doc_freq": 10
+    },
+    "pattern": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "benedetti": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "came": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "l6vkdc2c029706": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "bottega": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "text": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "sent": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "bring": {
+      "term_freq": 3,
+      "ttf": 28,
+      "doc_freq": 11
+    },
+    "shoe": {
+      "term_freq": 11,
+      "ttf": 11,
+      "doc_freq": 1
+    },
+    "chicken": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "font": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "texa": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "find": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 5
+    },
+    "help": {
+      "term_freq": 2,
+      "ttf": 25,
+      "doc_freq": 11
+    },
+    "onli": {
+      "term_freq": 6,
+      "ttf": 20,
+      "doc_freq": 11
+    },
+    "copyright": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "explain": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 9
+    },
+    "winner": {
+      "term_freq": 3,
+      "ttf": 35,
+      "doc_freq": 11
+    },
+    "figur": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "should": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 4
+    },
+    "lipscomb": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "jam": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 2
+    },
+    "black": {
+      "term_freq": 2,
+      "ttf": 5,
+      "doc_freq": 2
+    },
+    "arvind": {
+      "term_freq": 8,
+      "ttf": 10,
+      "doc_freq": 2
+    },
+    "rice": {
+      "term_freq": 4,
+      "ttf": 4,
+      "doc_freq": 1
+    },
+    "attitu": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "5.3.3.310218": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "do": {
+      "term_freq": 1,
+      "ttf": 31,
+      "doc_freq": 11
+    },
+    "over": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "his": {
+      "term_freq": 6,
+      "ttf": 15,
+      "doc_freq": 7
+    },
+    "exposur": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 2
+    },
+    "192.168.1.100": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 5
+    },
+    "dyslex": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "de": {
+      "term_freq": 2,
+      "ttf": 21,
+      "doc_freq": 11
+    },
+    "stop": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 2
+    },
+    "kind": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "p": {
+      "term_freq": 1,
+      "ttf": 9,
+      "doc_freq": 6
+    },
+    "20070731195833m140020l6te": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "increas": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "lester": {
+      "term_freq": 11,
+      "ttf": 14,
+      "doc_freq": 2
+    },
+    "dr": {
+      "term_freq": 1,
+      "ttf": 7,
+      "doc_freq": 5
+    },
+    "him": {
+      "term_freq": 3,
+      "ttf": 3,
+      "doc_freq": 1
+    },
+    "requir": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "receiv": {
+      "term_freq": 9,
+      "ttf": 148,
+      "doc_freq": 11
+    },
+    "keyword": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "organ": {
+      "term_freq": 2,
+      "ttf": 21,
+      "doc_freq": 9
+    },
+    "same": {
+      "term_freq": 2,
+      "ttf": 4,
+      "doc_freq": 2
+    },
+    "leather": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "borrow": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "privileg": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "24.61.40.221": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "bag": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "scientist": {
+      "term_freq": 3,
+      "ttf": 28,
+      "doc_freq": 9
+    },
+    "she": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "rival": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "gaug": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "london": {
+      "term_freq": 2,
+      "ttf": 9,
+      "doc_freq": 6
+    },
+    "septemb": {
+      "term_freq": 1,
+      "ttf": 7,
+      "doc_freq": 5
+    },
+    "us": {
+      "term_freq": 6,
+      "ttf": 88,
+      "doc_freq": 11
+    },
+    "j": {
+      "term_freq": 3,
+      "ttf": 18,
+      "doc_freq": 10
+    },
+    "harker": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "apolog": {
+      "term_freq": 4,
+      "ttf": 5,
+      "doc_freq": 2
+    },
+    "http://tinyurl.com/2nkbrf": {
+      "term_freq": 2,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "see": {
+      "term_freq": 6,
+      "ttf": 40,
+      "doc_freq": 11
+    },
+    "result": {
+      "term_freq": 1,
+      "ttf": 20,
+      "doc_freq": 10
+    },
+    "poe": {
+      "term_freq": 3,
+      "ttf": 3,
+      "doc_freq": 1
+    },
+    "close": {
+      "term_freq": 1,
+      "ttf": 8,
+      "doc_freq": 4
+    },
+    "comcast.net": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "meet": {
+      "term_freq": 1,
+      "ttf": 9,
+      "doc_freq": 7
+    },
+    "best": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "subject": {
+      "term_freq": 7,
+      "ttf": 63,
+      "doc_freq": 11
+    },
+    "closer": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "03": {
+      "term_freq": 2,
+      "ttf": 31,
+      "doc_freq": 11
+    },
+    "01": {
+      "term_freq": 3,
+      "ttf": 60,
+      "doc_freq": 11
+    },
+    "06": {
+      "term_freq": 4,
+      "ttf": 99,
+      "doc_freq": 11
+    },
+    "07": {
+      "term_freq": 38,
+      "ttf": 72,
+      "doc_freq": 11
+    },
+    "04": {
+      "term_freq": 2,
+      "ttf": 70,
+      "doc_freq": 11
+    },
+    "05": {
+      "term_freq": 2,
+      "ttf": 66,
+      "doc_freq": 11
+    },
+    "hirschhorn": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "08": {
+      "term_freq": 2,
+      "ttf": 63,
+      "doc_freq": 11
+    },
+    "09": {
+      "term_freq": 2,
+      "ttf": 63,
+      "doc_freq": 11
+    },
+    "favor": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "entrant": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "between": {
+      "term_freq": 1,
+      "ttf": 9,
+      "doc_freq": 4
+    },
+    "subscript": {
+      "term_freq": 2,
+      "ttf": 32,
+      "doc_freq": 11
+    },
+    "approach": {
+      "term_freq": 2,
+      "ttf": 5,
+      "doc_freq": 3
+    },
+    "a.d": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "we": {
+      "term_freq": 15,
+      "ttf": 82,
+      "doc_freq": 11
+    },
+    "herkogami": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "august": {
+      "term_freq": 2,
+      "ttf": 11,
+      "doc_freq": 7
+    },
+    "mime": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "herrera": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "harvard": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "here": {
+      "term_freq": 3,
+      "ttf": 28,
+      "doc_freq": 11
+    },
+    "key": {
+      "term_freq": 1,
+      "ttf": 14,
+      "doc_freq": 11
+    },
+    "news": {
+      "term_freq": 2,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "come": {
+      "term_freq": 1,
+      "ttf": 16,
+      "doc_freq": 11
+    },
+    "tue": {
+      "term_freq": 4,
+      "ttf": 15,
+      "doc_freq": 4
+    },
+    "addit": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "both": {
+      "term_freq": 2,
+      "ttf": 8,
+      "doc_freq": 6
+    },
+    "c": {
+      "term_freq": 5,
+      "ttf": 35,
+      "doc_freq": 11
+    },
+    "psycholog": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "last": {
+      "term_freq": 5,
+      "ttf": 43,
+      "doc_freq": 11
+    },
+    "sheldon": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "norbert": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "mono": {
+      "term_freq": 9,
+      "ttf": 10,
+      "doc_freq": 2
+    },
+    "annual": {
+      "term_freq": 1,
+      "ttf": 10,
+      "doc_freq": 7
+    },
+    "oversea": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "improb": {
+      "term_freq": 15,
+      "ttf": 169,
+      "doc_freq": 11
+    },
+    "edgar": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "etc": {
+      "term_freq": 2,
+      "ttf": 27,
+      "doc_freq": 11
+    },
+    "s": {
+      "term_freq": 4,
+      "ttf": 24,
+      "doc_freq": 11
+    },
+    "jo": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "w.p": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "context": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "countri": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "whole": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "can't": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "among": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "co": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "airnz": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "color": {
+      "term_freq": 2,
+      "ttf": 4,
+      "doc_freq": 2
+    },
+    "sweet": {
+      "term_freq": 4,
+      "ttf": 5,
+      "doc_freq": 2
+    },
+    "inspir": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 4
+    },
+    "way": {
+      "term_freq": 2,
+      "ttf": 7,
+      "doc_freq": 6
+    },
+    "period": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "walk": {
+      "term_freq": 1,
+      "ttf": 8,
+      "doc_freq": 3
+    },
+    "02238": {
+      "term_freq": 2,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "http://improbable.com/2006/02/09/prof-profs/": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "spotlight": {
+      "term_freq": 2,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "1.0": {
+      "term_freq": 1,
+      "ttf": 14,
+      "doc_freq": 11
+    },
+    "beenther": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "poem": {
+      "term_freq": 3,
+      "ttf": 14,
+      "doc_freq": 11
+    },
+    "pp": {
+      "term_freq": 6,
+      "ttf": 63,
+      "doc_freq": 11
+    },
+    "java": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "evalu": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "marc": {
+      "term_freq": 2,
+      "ttf": 23,
+      "doc_freq": 11
+    },
+    "8.8": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "kaswel": {
+      "term_freq": 3,
+      "ttf": 17,
+      "doc_freq": 11
+    },
+    "compos": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "been": {
+      "term_freq": 2,
+      "ttf": 16,
+      "doc_freq": 11
+    },
+    "mark": {
+      "term_freq": 2,
+      "ttf": 21,
+      "doc_freq": 11
+    },
+    "whom": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "damn": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "subscrib": {
+      "term_freq": 8,
+      "ttf": 75,
+      "doc_freq": 11
+    },
+    "poet": {
+      "term_freq": 4,
+      "ttf": 30,
+      "doc_freq": 11
+    },
+    "barrett": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "abuja": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "po": {
+      "term_freq": 2,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "leech": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "treatment": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "0000": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 8
+    },
+    "resolut": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "ani": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "demand": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "former": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 2
+    },
+    "sunwolf": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "sender": {
+      "term_freq": 1,
+      "ttf": 18,
+      "doc_freq": 11
+    },
+    "homer": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "subsequ": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "look": {
+      "term_freq": 1,
+      "ttf": 9,
+      "doc_freq": 8
+    },
+    "plain": {
+      "term_freq": 3,
+      "ttf": 14,
+      "doc_freq": 11
+    },
+    "commerci": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "air": {
+      "term_freq": 20,
+      "ttf": 226,
+      "doc_freq": 11
+    },
+    "insens": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "abov": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "error": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "report": {
+      "term_freq": 6,
+      "ttf": 60,
+      "doc_freq": 11
+    },
+    "robin": {
+      "term_freq": 2,
+      "ttf": 11,
+      "doc_freq": 10
+    },
+    "della": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "printabl": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "mexico": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "almost": {
+      "term_freq": 2,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "chem.harvard.edu": {
+      "term_freq": 6,
+      "ttf": 66,
+      "doc_freq": 11
+    },
+    "thus": {
+      "term_freq": 3,
+      "ttf": 5,
+      "doc_freq": 3
+    },
+    "it": {
+      "term_freq": 1,
+      "ttf": 34,
+      "doc_freq": 11
+    },
+    "p.a": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "2.1.8": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "archiv": {
+      "term_freq": 1,
+      "ttf": 19,
+      "doc_freq": 11
+    },
+    "http://chem.harvard.edu/pipermail/mini-air": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "against": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "seen": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "id": {
+      "term_freq": 7,
+      "ttf": 105,
+      "doc_freq": 11
+    },
+    "ig": {
+      "term_freq": 5,
+      "ttf": 82,
+      "doc_freq": 11
+    },
+    "scienc": {
+      "term_freq": 5,
+      "ttf": 30,
+      "doc_freq": 11
+    },
+    "psychopath": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "twofold": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "doctor": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "perform": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 5
+    },
+    "balloon": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "medic": {
+      "term_freq": 2,
+      "ttf": 11,
+      "doc_freq": 6
+    },
+    "2007.7.31.124732": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "paul.thomas@anu.edu.au": {
+      "term_freq": 1,
+      "ttf": 25,
+      "doc_freq": 11
+    },
+    "check": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "member": {
+      "term_freq": 2,
+      "ttf": 13,
+      "doc_freq": 9
+    },
+    "when": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 8
+    },
+    "complex": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "itali": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 5
+    },
+    "glashow": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "word": {
+      "term_freq": 1,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "probabl": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "mailer": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "jerri": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "conflict": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "status": {
+      "term_freq": 2,
+      "ttf": 22,
+      "doc_freq": 11
+    },
+    "competit": {
+      "term_freq": 6,
+      "ttf": 56,
+      "doc_freq": 11
+    },
+    "ingor": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "seywerd": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "itch": {
+      "term_freq": 4,
+      "ttf": 4,
+      "doc_freq": 1
+    },
+    "optim": {
+      "term_freq": 4,
+      "ttf": 5,
+      "doc_freq": 2
+    },
+    "effect": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 8
+    },
+    "moment": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "fruit": {
+      "term_freq": 2,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "voter": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "mani": {
+      "term_freq": 4,
+      "ttf": 25,
+      "doc_freq": 11
+    },
+    "extern": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "herschbach": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "wherev": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "i'm": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 3
+    },
+    "nit": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "luxuri": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 8
+    },
+    "appropri": {
+      "term_freq": 3,
+      "ttf": 24,
+      "doc_freq": 11
+    },
+    "off": {
+      "term_freq": 1,
+      "ttf": 10,
+      "doc_freq": 10
+    },
+    "i": {
+      "term_freq": 1,
+      "ttf": 25,
+      "doc_freq": 10
+    },
+    "entri": {
+      "term_freq": 2,
+      "ttf": 23,
+      "doc_freq": 11
+    },
+    "feebl": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "pronounc": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 2
+    },
+    "exampl": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "electronas": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "jersey": {
+      "term_freq": 2,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "encryptionst": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "spencer": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "latest": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "newest": {
+      "term_freq": 2,
+      "ttf": 8,
+      "doc_freq": 5
+    },
+    "just": {
+      "term_freq": 4,
+      "ttf": 15,
+      "doc_freq": 6
+    },
+    "money": {
+      "term_freq": 1,
+      "ttf": 15,
+      "doc_freq": 11
+    },
+    "mini-air@air.harvard.edu": {
+      "term_freq": 6,
+      "ttf": 71,
+      "doc_freq": 11
+    },
+    "detail": {
+      "term_freq": 2,
+      "ttf": 24,
+      "doc_freq": 11
+    },
+    "u4161360@anumail.anu.edu.au": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "clinic": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "victim": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "love": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 5
+    },
+    "f3nica": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "languag": {
+      "term_freq": 1,
+      "ttf": 16,
+      "doc_freq": 8
+    },
+    "note": {
+      "term_freq": 6,
+      "ttf": 12,
+      "doc_freq": 5
+    },
+    "yr": {
+      "term_freq": 3,
+      "ttf": 33,
+      "doc_freq": 11
+    },
+    "expos": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "flood": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "point": {
+      "term_freq": 2,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "had": {
+      "term_freq": 2,
+      "ttf": 5,
+      "doc_freq": 3
+    },
+    "littl": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "day": {
+      "term_freq": 3,
+      "ttf": 23,
+      "doc_freq": 8
+    },
+    "blog": {
+      "term_freq": 2,
+      "ttf": 19,
+      "doc_freq": 11
+    },
+    "toni": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "other": {
+      "term_freq": 3,
+      "ttf": 30,
+      "doc_freq": 11
+    },
+    "sydney": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "unlik": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "has": {
+      "term_freq": 6,
+      "ttf": 21,
+      "doc_freq": 10
+    },
+    "futur": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "http://improbable.com/2007/07/31/three-ant-crowding-limericks/": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "indonesian": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "australia": {
+      "term_freq": 3,
+      "ttf": 11,
+      "doc_freq": 4
+    },
+    "unsubscrib": {
+      "term_freq": 3,
+      "ttf": 33,
+      "doc_freq": 11
+    },
+    "read": {
+      "term_freq": 5,
+      "ttf": 40,
+      "doc_freq": 11
+    },
+    "marca": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "dark": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "http://infosys.massey.ac.nz/~kinshuk/": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "temperatur": {
+      "term_freq": 5,
+      "ttf": 10,
+      "doc_freq": 5
+    },
+    "traffic": {
+      "term_freq": 4,
+      "ttf": 5,
+      "doc_freq": 2
+    },
+    "know": {
+      "term_freq": 1,
+      "ttf": 8,
+      "doc_freq": 6
+    },
+    "belgium": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "bit": {
+      "term_freq": 1,
+      "ttf": 14,
+      "doc_freq": 11
+    },
+    "postal": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "mini-air@chem.harvard.edu": {
+      "term_freq": 1,
+      "ttf": 16,
+      "doc_freq": 10
+    },
+    "measur": {
+      "term_freq": 2,
+      "ttf": 6,
+      "doc_freq": 4
+    },
+    "airhead": {
+      "term_freq": 1,
+      "ttf": 14,
+      "doc_freq": 11
+    },
+    "specif": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "server": {
+      "term_freq": 1,
+      "ttf": 14,
+      "doc_freq": 10
+    },
+    "esmtp": {
+      "term_freq": 4,
+      "ttf": 54,
+      "doc_freq": 11
+    },
+    "necessari": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "nose": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "martin": {
+      "term_freq": 2,
+      "ttf": 16,
+      "doc_freq": 11
+    },
+    "manag": {
+      "term_freq": 1,
+      "ttf": 16,
+      "doc_freq": 11
+    },
+    "right": {
+      "term_freq": 1,
+      "ttf": 15,
+      "doc_freq": 11
+    },
+    "old": {
+      "term_freq": 1,
+      "ttf": 7,
+      "doc_freq": 6
+    },
+    "crowd": {
+      "term_freq": 5,
+      "ttf": 10,
+      "doc_freq": 2
+    },
+    "__has_x_mail": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "excerpt": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "back": {
+      "term_freq": 1,
+      "ttf": 18,
+      "doc_freq": 11
+    },
+    "hair": {
+      "term_freq": 1,
+      "ttf": 16,
+      "doc_freq": 8
+    },
+    "intern": {
+      "term_freq": 2,
+      "ttf": 26,
+      "doc_freq": 11
+    },
+    "shirrel": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "surpris": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "doorstep": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "vol": {
+      "term_freq": 8,
+      "ttf": 75,
+      "doc_freq": 11
+    },
+    "est": {
+      "term_freq": 1,
+      "ttf": 33,
+      "doc_freq": 11
+    },
+    "humor": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "wendi": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "bottom": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "wastlund": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "lotto": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "dudley": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "per": {
+      "term_freq": 3,
+      "ttf": 33,
+      "doc_freq": 11
+    },
+    "mailto": {
+      "term_freq": 4,
+      "ttf": 44,
+      "doc_freq": 11
+    },
+    "leap": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "condit": {
+      "term_freq": 2,
+      "ttf": 6,
+      "doc_freq": 5
+    },
+    "three": {
+      "term_freq": 2,
+      "ttf": 8,
+      "doc_freq": 5
+    },
+    "refer": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 4
+    },
+    "be": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 3
+    },
+    "investig": {
+      "term_freq": 6,
+      "ttf": 51,
+      "doc_freq": 11
+    },
+    "annal": {
+      "term_freq": 11,
+      "ttf": 113,
+      "doc_freq": 11
+    },
+    "tour": {
+      "term_freq": 3,
+      "ttf": 20,
+      "doc_freq": 9
+    },
+    "journal": {
+      "term_freq": 2,
+      "ttf": 35,
+      "doc_freq": 11
+    },
+    "bi": {
+      "term_freq": 1,
+      "ttf": 15,
+      "doc_freq": 11
+    },
+    "ma": {
+      "term_freq": 2,
+      "ttf": 25,
+      "doc_freq": 11
+    },
+    "step": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 4
+    },
+    "colleg": {
+      "term_freq": 2,
+      "ttf": 7,
+      "doc_freq": 5
+    },
+    "santa": {
+      "term_freq": 1,
+      "ttf": 8,
+      "doc_freq": 2
+    },
+    "from": {
+      "term_freq": 20,
+      "ttf": 193,
+      "doc_freq": 11
+    },
+    "post": {
+      "term_freq": 6,
+      "ttf": 51,
+      "doc_freq": 11
+    },
+    "chapter": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "faith": {
+      "term_freq": 3,
+      "ttf": 3,
+      "doc_freq": 1
+    },
+    "about": {
+      "term_freq": 4,
+      "ttf": 26,
+      "doc_freq": 10
+    },
+    "actual": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "zip": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "column": {
+      "term_freq": 1,
+      "ttf": 8,
+      "doc_freq": 8
+    },
+    "materi": {
+      "term_freq": 2,
+      "ttf": 23,
+      "doc_freq": 11
+    },
+    "mattson": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "o": {
+      "term_freq": 3,
+      "ttf": 17,
+      "doc_freq": 11
+    },
+    "page": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "festiv": {
+      "term_freq": 1,
+      "ttf": 10,
+      "doc_freq": 8
+    },
+    "degre": {
+      "term_freq": 2,
+      "ttf": 5,
+      "doc_freq": 3
+    },
+    "longispathus": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "http://improbable.com/subscribe/": {
+      "term_freq": 1,
+      "ttf": 10,
+      "doc_freq": 10
+    },
+    "constructor": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "chem2.harvard.edu": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "octopus": {
+      "term_freq": 3,
+      "ttf": 4,
+      "doc_freq": 2
+    },
+    "road": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "routin": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "univers": {
+      "term_freq": 5,
+      "ttf": 25,
+      "doc_freq": 9
+    },
+    "mini-air-bounces@chem.harvard.edu": {
+      "term_freq": 2,
+      "ttf": 34,
+      "doc_freq": 10
+    },
+    "gari": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "encod": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "suicid": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "neil": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "your": {
+      "term_freq": 4,
+      "ttf": 45,
+      "doc_freq": 11
+    },
+    "genotyp": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "smithton": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "carlisl": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "institut": {
+      "term_freq": 2,
+      "ttf": 7,
+      "doc_freq": 6
+    },
+    "spam": {
+      "term_freq": 1,
+      "ttf": 27,
+      "doc_freq": 11
+    },
+    "transfer": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "support": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "long": {
+      "term_freq": 2,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "avail": {
+      "term_freq": 1,
+      "ttf": 8,
+      "doc_freq": 7
+    },
+    "appl": {
+      "term_freq": 2,
+      "ttf": 14,
+      "doc_freq": 5
+    },
+    "editor": {
+      "term_freq": 4,
+      "ttf": 43,
+      "doc_freq": 11
+    },
+    "under": {
+      "term_freq": 2,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "forward": {
+      "term_freq": 3,
+      "ttf": 33,
+      "doc_freq": 11
+    },
+    "shirel": {
+      "term_freq": 2,
+      "ttf": 5,
+      "doc_freq": 3
+    },
+    "yrs": {
+      "term_freq": 3,
+      "ttf": 33,
+      "doc_freq": 11
+    },
+    "vienna": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "head": {
+      "term_freq": 1,
+      "ttf": 9,
+      "doc_freq": 4
+    },
+    "form": {
+      "term_freq": 3,
+      "ttf": 25,
+      "doc_freq": 11
+    },
+    "offer": {
+      "term_freq": 1,
+      "ttf": 10,
+      "doc_freq": 8
+    },
+    "some": {
+      "term_freq": 4,
+      "ttf": 26,
+      "doc_freq": 10
+    },
+    "recommend": {
+      "term_freq": 2,
+      "ttf": 23,
+      "doc_freq": 11
+    },
+    "jul": {
+      "term_freq": 5,
+      "ttf": 10,
+      "doc_freq": 3
+    },
+    "heat": {
+      "term_freq": 2,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "state": {
+      "term_freq": 1,
+      "ttf": 16,
+      "doc_freq": 11
+    },
+    "nevermor": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "templ": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "solar": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "sun": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 5
+    },
+    "overflow": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "uni": {
+      "term_freq": 2,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "conclus": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 4
+    },
+    "he": {
+      "term_freq": 3,
+      "ttf": 19,
+      "doc_freq": 8
+    },
+    "info": {
+      "term_freq": 3,
+      "ttf": 19,
+      "doc_freq": 11
+    },
+    "hire": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "dirti": {
+      "term_freq": 4,
+      "ttf": 9,
+      "doc_freq": 2
+    },
+    "spectroscopi": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "possibl": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 9
+    },
+    "wish": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "daffodil": {
+      "term_freq": 5,
+      "ttf": 9,
+      "doc_freq": 2
+    },
+    "up": {
+      "term_freq": 2,
+      "ttf": 7,
+      "doc_freq": 5
+    },
+    "troubl": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "tell": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "work": {
+      "term_freq": 2,
+      "ttf": 11,
+      "doc_freq": 6
+    },
+    "record": {
+      "term_freq": 1,
+      "ttf": 6,
+      "doc_freq": 6
+    },
+    "limit": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "tini": {
+      "term_freq": 2,
+      "ttf": 18,
+      "doc_freq": 11
+    },
+    "uk": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 9
+    },
+    "site": {
+      "term_freq": 1,
+      "ttf": 12,
+      "doc_freq": 11
+    },
+    "highlight": {
+      "term_freq": 1,
+      "ttf": 9,
+      "doc_freq": 8
+    },
+    "problem": {
+      "term_freq": 3,
+      "ttf": 7,
+      "doc_freq": 3
+    },
+    "hstad": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "athabasca": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "uid": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "creat": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 4
+    },
+    "classic": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "m": {
+      "term_freq": 3,
+      "ttf": 19,
+      "doc_freq": 10
+    },
+    "abstract": {
+      "term_freq": 3,
+      "ttf": 7,
+      "doc_freq": 3
+    },
+    "lectur": {
+      "term_freq": 1,
+      "ttf": 14,
+      "doc_freq": 9
+    },
+    "unrel": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "maitr": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "cure": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "exist": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "bloglight": {
+      "term_freq": 2,
+      "ttf": 8,
+      "doc_freq": 4
+    },
+    "hospit": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 5
+    },
+    "autism": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "fill": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "assembl": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "collid": {
+      "term_freq": 1,
+      "ttf": 5,
+      "doc_freq": 3
+    },
+    "tix": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "4.0": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "titl": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "c-24-61-40-221.hsd1.ma.comcast.net": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "reduct": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "club": {
+      "term_freq": 1,
+      "ttf": 17,
+      "doc_freq": 8
+    },
+    "book": {
+      "term_freq": 2,
+      "ttf": 11,
+      "doc_freq": 4
+    },
+    "8.13.8": {
+      "term_freq": 2,
+      "ttf": 8,
+      "doc_freq": 4
+    },
+    "varieti": {
+      "term_freq": 1,
+      "ttf": 4,
+      "doc_freq": 3
+    },
+    "entomologist": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "you": {
+      "term_freq": 8,
+      "ttf": 55,
+      "doc_freq": 11
+    },
+    "dussutour": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "v752.3": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "genuin": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "potenti": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "rivalri": {
+      "term_freq": 2,
+      "ttf": 3,
+      "doc_freq": 2
+    },
+    "time": {
+      "term_freq": 5,
+      "ttf": 16,
+      "doc_freq": 7
+    },
+    "june": {
+      "term_freq": 2,
+      "ttf": 18,
+      "doc_freq": 6
+    },
+    "william": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 11
+    },
+    "m.j": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "recent": {
+      "term_freq": 1,
+      "ttf": 13,
+      "doc_freq": 10
+    },
+    "buratti": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "peac": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "http://improbable.com/improbable-research-shows/complete-schedule/": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "scholar": {
+      "term_freq": 1,
+      "ttf": 3,
+      "doc_freq": 3
+    },
+    "abraham": {
+      "term_freq": 3,
+      "ttf": 33,
+      "doc_freq": 11
+    },
+    "e": {
+      "term_freq": 2,
+      "ttf": 30,
+      "doc_freq": 11
+    },
+    "longer": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "oshita": {
+      "term_freq": 2,
+      "ttf": 2,
+      "doc_freq": 1
+    },
+    "rutger": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "rule": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "ipcr": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "__cte": {
+      "term_freq": 1,
+      "ttf": 11,
+      "doc_freq": 11
+    },
+    "2.5.1.298604": {
+      "term_freq": 1,
+      "ttf": 2,
+      "doc_freq": 2
+    },
+    "phthiria": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    },
+    "robert": {
+      "term_freq": 1,
+      "ttf": 16,
+      "doc_freq": 11
+    },
+    "c.h": {
+      "term_freq": 1,
+      "ttf": 1,
+      "doc_freq": 1
+    }
+  }
+}
